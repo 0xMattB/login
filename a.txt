@@ -1,0 +1,4 @@
+abc@domain.com	abc123
+ghi@domain.com	ghi789
+angee@hotmail.com	Telemetry
+def@domain.com	def456
